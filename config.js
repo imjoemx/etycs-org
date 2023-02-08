@@ -6,6 +6,7 @@ const config = {
     trailingSlash: false,
   },
   header: {
+    title: "Etycs",
     logo: 'https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/brand.svg',
     logoLink: 'https://hasura.io/learn/',
     title:

@@ -1,10 +1,10 @@
 ---
-title: "Introduction"
-metaTitle: "This is the title tag of this page"
-metaDescription: "This is the meta description"
+title: "Scrum"
+metaTitle: "Scrum practice"
+metaDescription: "scrum, agile, developement"
 ---
 
-Some introduction text. Lists out all the headings from h1 to h6. Markdown link handling for relative and absolute URLs. Easy to customise.
+Scrum practice
 
 # Heading H1
 Heading 1 text
